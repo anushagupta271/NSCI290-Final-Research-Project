@@ -1,0 +1,15 @@
+GPCR,Enriched_In,Log2FC,P_adj,Approved_Drugs,Investigational,Indication
+HTR6,AD,-0.6645205843474911,9.669109302974678e-106,None,HTR6 antagonists - cognitive enhancement in AD,Memory and cognition
+OPRD1,AD,-1.2752278150221485,4.327416560786928e-103,None,Delta opioid agonists for neuroprotection,Neuroprotection in AD
+P2RY2,AD,-0.92353884065925,9.527843495371064e-103,None,"P2Y2 agonists for dry eye, mucus clearance",Inflammation and tissue repair
+HTR4,AD,-1.81331006238793,2.835840401499145e-102,Prucalopride - constipation,HTR4 agonists for cognition,Cognitive enhancement
+OPRM1,AD,-2.485735188051064,6.84420804548799e-102,"Morphine, Fentanyl - pain",Opioid system in neurodegeneration,Pain and emotional processing
+HTR1B,AD,-1.0276059930314885,1.6093789639877363e-101,Triptans (sumatriptan) - migraine,None,Vascular and neuronal signaling
+HTR1A,AD,-2.074266032849168,1.4781487954895011e-100,Buspirone - anxiety; Tandospirone - depression,HTR1A partial agonists for cognition,Mood and cognitive function
+ADORA1,AD,-2.6877638046606087,8.333458279362407e-100,Regadenoson - cardiac stress test,A1 agonists for neuroprotection,Neuronal excitability modulation
+ADRA1A,AD,-2.0533352590789233,3.380393647931893e-99,Tamsulosin - BPH; Doxazosin - hypertension,Repurposing for neurodegeneration,Vascular and neuronal function
+ADRA1B,AD,-1.9564889609109286,1.2572437204368979e-98,Prazosin - PTSD nightmares; Alpha-blockers - hypertension,None,Stress response and memory
+DRD1,AD,-1.7812093395012223,1.5577057543222045e-97,None,D1 agonists for cognitive enhancement,Working memory and attention
+GRM2,AD,-1.749324247849352,1.2021537133139628e-93,None,"GRM2/3 agonists for anxiety, schizophrenia",Neurotransmitter modulation
+GRM7,AD,-2.7013399332652854,5.149519635381422e-93,None,GRM7 modulators for anxiety,Anxiety and stress response
+GRM5,AD,-3.587005871897603,9.174233467950504e-92,None,"GRM5 positive/negative allosteric modulators for AD, anxiety, fragile X",Synaptic plasticity and cognition

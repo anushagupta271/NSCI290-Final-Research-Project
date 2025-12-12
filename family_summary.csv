@@ -1,0 +1,12 @@
+Family,N_GPCRs,Mean_Log2FC,N_Significant,Mean_Effect_Size
+Complement,2,0.684,2,0.514
+Adenosine,4,0.14,4,0.023
+Chemokine,18,0.035,15,-0.009
+Cannabinoid,2,-0.032,1,-0.026
+Purinergic,8,-0.193,7,-0.153
+Orphan GPR,18,-0.47,17,-0.382
+Dopamine,5,-0.551,5,-0.464
+Adrenergic,9,-0.932,9,-0.825
+Serotonin,12,-1.156,12,-0.91
+Opioid,4,-1.65,4,-1.347
+Glutamate,8,-1.965,8,-1.498

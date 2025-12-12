@@ -1,0 +1,4 @@
+Model,Test Accuracy,CV Mean ± Std
+Logistic Regression,1.0,0.988 ± 0.021
+Random Forest,1.0,0.998 ± 0.003
+Decision Tree,0.9948717948717949,0.988 ± 0.014
